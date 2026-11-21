@@ -1,0 +1,23 @@
+{
+  "catalog": {
+    "owl": [
+      "feathers",
+      "nocturnal"
+    ],
+    "sparrow": [
+      "feathers"
+    ],
+    "bat": [
+      "nocturnal",
+      "fur"
+    ],
+    "rabbit": [
+      "fur"
+    ]
+  },
+  "observations": {
+    "feathers": false,
+    "nocturnal": true,
+    "fur": true
+  }
+}
